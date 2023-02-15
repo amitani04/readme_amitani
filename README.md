@@ -6,4 +6,4 @@
 ## Twitter API v1
 ## Twitter API v2 academic research
 # ファイルの説明
-## newbuzz
+## 'newbuzz'
