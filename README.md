@@ -1,6 +1,6 @@
 # readme_amitani
 # 開発環境
-###### Python(3.8.10)
+Python(3.8.10)
 ###### Google Colaboratory
 ###### jupyter notebook
 ###### Twitter API v1
